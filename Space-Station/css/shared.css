@@ -125,7 +125,7 @@ section {
     width: 100%;
     position: absolute;
     /* This ensures that the images cannot
-    render outside of teir container
+    render outside of their container
     without forcing any scrollbars*/
     overflow: hidden;
     top: 0;
