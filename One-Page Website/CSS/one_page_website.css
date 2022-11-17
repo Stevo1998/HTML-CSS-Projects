@@ -1,0 +1,17 @@
+html {
+    font-family: Times;
+    font-size: 90%;
+}
+
+body {
+    font-size: 18px;
+    font-family: "Georgia", 'Times New Roman', serif;
+}
+
+input[type=text] {
+    width: 80%;
+    padding: 10px 20px;
+    margin: 20px 0;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
